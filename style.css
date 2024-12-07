@@ -18,14 +18,14 @@
   
   /* Gradient for Body of Bio Data Page */
   body.bio {
-    background: #8fbaef /* Light blue to pale gray gradient */
+    background:#a2efdf;
   }
   
   header {
-    background-color: #2e3c48; /* A subtle dark gray-blue for the header */
+    background-color: #163047; /* A subtle dark gray-blue for the header */
     padding: 20px 0;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(166, 179, 25, 0.1);
   }
   
   header nav ul {
@@ -38,7 +38,7 @@
   }
   
   header nav ul li a {
-    color: #ecf0f1; /* Light color for navigation links */
+    color: #25aed0; /* Light color for navigation links */
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
