@@ -1,4 +1,4 @@
-/* Reset some default styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +13,7 @@
   
   /* Gradient for Body of Resume Page */
   body.resume {
-    background: linear-gradient(135deg, #8eb9ef, #7497ea); /* Light cyan to soft blue gradient */
+    background: linear-gradient(135deg, #00050c, #0044e2); /* Light cyan to soft blue gradient */
   }
   
   /* Gradient for Body of Bio Data Page */
@@ -22,10 +22,10 @@
   }
   
   header {
-    background-color: #163047; /* A subtle dark gray-blue for the header */
+    background-color: #000000; /* A subtle dark gray-blue for the header */
     padding: 20px 0;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(166, 179, 25, 0.1);
+    box-shadow: 0 2px 5px rgba(237, 255, 34, 0.1);
   }
   
   header nav ul {
@@ -38,7 +38,7 @@
   }
   
   header nav ul li a {
-    color: #25aed0; /* Light color for navigation links */
+    color: #35b910; /* Light color for navigation links */
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -121,7 +121,7 @@
   
   footer {
     background-color: #2e3c48; /* Dark background for footer */
-    color: #ecf0f1; /* Light text in the footer */
+    color: #0aa0c5; /* Light text in the footer */
     text-align: center;
     padding: 15px;
     margin-top: 40px;
@@ -133,7 +133,7 @@
   }
   
   footer a {
-    color: #ecf0f1;
+    color: #63593a;
     text-decoration: none;
   }
   
